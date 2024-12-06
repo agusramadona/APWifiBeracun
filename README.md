@@ -7,4 +7,5 @@ Jangan lupa lakukan instalasi NPCAP terlebih dahulu pada Laptop anda, dapat di d
 Jalankan perintah berikut untuk dapat mengimport paket library yang dibutuhkan:
 
 pip install scapy
+
 pip install pyshark
